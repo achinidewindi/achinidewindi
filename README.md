@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-There are the chsnges!
+
+There were some chsnges!
+
 
 updated line
